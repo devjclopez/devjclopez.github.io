@@ -57,7 +57,7 @@ const About = () => {
           </div>
         </div>
         <div data-aos="fade-left" data-aos-delay="400" className="mx-auto about-perfil flex flex-col items-center justify-center md:mt-0 mt-10">
-          <div className="max-w-[380px] mb-5 md:mb-2">
+          <div className="max-w-[350px] mb-5 md:mb-2">
             <img src="/perfil.png" alt="" />
           </div>
           <div className="border flex justify-evenly items-stretch gap-1 border-[#ABB2BF] p-2 text-[#ABB2BF]

@@ -23,10 +23,10 @@ const AboutSection = () => {
               Hola, soy Josimar!
               <br />
               <br />
-              Soy ingeniero informático & <span className="text-white">desarrollador Full Stack</span>, me especializo en crear aplicaciones web, me esfuerzo por aprender de manera rápida y trabajo en equipo, se delegar responsabilidades y colaborar con mis compañeros de trabajo.
+              Soy ingeniero informático y <span className="text-white">desarrollador Full Stack</span>, me apasiona la programación, me especializo en desarrollar aplicaciones web desde cero convirtiéndolas en experiencias funcionales y modernas. Tengo experiencia desarrollando portales web y sistemas de gestión administrativa en empresas privadas y entidades gubernamentales.
               <br />
               <br />
-              Transformar mi creatividad y conocimiento en una aplicación ha sido mi pasión por más de 4 años, puedo desarrollar aplicaciones desde cero y convertirlos en experiencias modernas y fáciles de usar, he desarrollado proyectos freelance para empresas locales y organismos gubernamentales del sector educación en mi país, tales como portales web y sistemas de gestión administrativa. 
+              Aprendo con facilidad y me mantengo actualizado con respecto a las nuevas herramientas tecnológicas usadas en el desarrollo web, me adapto rápido al ritmo de trabajo de los grupos de desarrollo, soy puntual, motivado y responsable con las labores encomendadas. Soy un profesional que asume todos los retos y metas de la organización con buen manejo de las relaciones interpersonales y en condiciones de alta presión. 
             </p>
             {/* button */}
             <div className="mt-7 flex flex-col gap-2 items-center flex-wrap md:flex-row">
@@ -94,9 +94,9 @@ const AboutSection = () => {
             </div>
           </div>
           {/* right */}
-          {/* <div data-aos="fade-left" className=" mx-auto hidden md:flex foto-perfil">
-            <img className="mx-auto max-w-[350px]" src="/man-D2.png" alt="" />
-          </div> */}
+          <div data-aos="fade-left" className=" mx-auto hidden md:flex foto-perfil">
+            <img className="mx-auto max-w-[450px]" src="/laptop.png" alt="" />
+          </div>
         </div>
       </div>
     </>
