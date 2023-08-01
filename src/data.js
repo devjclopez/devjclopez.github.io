@@ -59,6 +59,14 @@ export const skills = [
 
 export const complete_projects = [
   {
+    img: 'carhub.png',
+    langs: ["next", "react", "next-navigation", "headless", "tailwind"],
+    title: "Car Hub App",
+    desc: "La aplicación permite realizar la busqueda de autos para rentar, la busqueda es por marca, modelo, año y tipo de combustible, consume API Cars e imagenes de otra api, segun el modelo del auto.",
+    url: "https://car-hub-opal-three.vercel.app",
+    github: "https://github.com/devjclopez/car-hub"
+  },
+  {
     img: 'fiverrapp.png',
     langs: ["react", "axios", "react-router", "react-slick", "react-query", "sass"],
     title: "Fiverr App Clone",
@@ -73,6 +81,14 @@ export const complete_projects = [
     desc: "La aplicación tiene la capacidad de registrar nuevos usuarios, iniciar sesión en la aplicación creando un token de sesión, cuando estamos logueados en la aplicación muestra diferentes médicos y sus disponibilidad de asistencia, finalmente, podemos crear una cita para una fecha y servicio específico.",
     url: "https://doctor-app-vu6d.onrender.com",
     github: "https://github.com/Devjclopez19/DoctorAPP-FRONTEND"
+  },
+  {
+    img: 'promptopia.png',
+    langs: ["next", "mongodb", "react", "tailwind", "mongoose"],
+    title: "Promptopia",
+    desc: "La aplicación permite crear, editar, eliminar y copiar prompts, el registro es atraves de autenticación de google, se almacenan los usuarios y prompts en la base de datos, full stack app con Next Js",
+    url: "",
+    github: "https://github.com/devjclopez/promptopia"
   },
   {
     img: 'ugelq.png',
